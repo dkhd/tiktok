@@ -10,6 +10,7 @@ Here, check all the source code to the TikTok videos I've made:
 
 | Title | TikTok Video URL | Source Code URL|
 |-|-|-|
+| Train animation using CSS | [@TheWeb3Guru](https://www.tiktok.com/@theweb3guru/video/7104492405386251546) | [Codepen.io](https://codepen.io/jkantner/pen/yoyqZz) |
 | Pure CSS countdown | [@TheWeb3Guru](https://www.tiktok.com/@theweb3guru/video/7103914204641414427) | [Codepen.io](https://codepen.io/code-boxx/pen/dyJMVBZ) |
 | Failed download animation | [@TheWeb3Guru](https://www.tiktok.com/@theweb3guru/video/7103755665868442906) | [Codepen.io](https://codepen.io/jkantner/pen/jOZYgOL) |
 | Battery charge animation | [@TheWeb3Guru](https://www.tiktok.com/@theweb3guru/video/7103527666992581914) | [Codepen.io](https://codepen.io/u01jmg3/pen/PGmzVL) |
